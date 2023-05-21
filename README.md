@@ -4,12 +4,7 @@
 </p>
 
 <h1> -  Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
-
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+This outlines the  installation of the Software System.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -21,10 +16,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2></h2>
 
-- Item 1
-- Item 2
+- Storage Account within the Resource Group 
+- Create a file on your local desktop and upload it into the Storage Account
 - Item 3
 - Item 4
 - Item 5
